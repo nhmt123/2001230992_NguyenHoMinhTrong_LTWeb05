@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "TimKiemTheoLoai";
+}
+
+@model List<LTWeb05_Bai03.Models.SanPham>
+
+<h2>PRODUCT BY CATEGORY</h2>
+<form method="post" action="~/Home/TimKiemTheoLoai">
+    <label>Choose an Category </label>
+    @Html.DropDownList("MaLoai", (SelectList)ViewBag.MaLoai, new { onchange = "this.form.submit();" })
+    <button type="submit" style="display: none;">Filter</button>
+</form>
+
+<hr />
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table table-striped border">
+        <thead class="thead-dark">
+            <tr>
+                <th>MaSP</th>
+                <th>TenSP</th>
+                <th>DuongDan</th>
+                <th>Gia</th>
+                <th>MoTa</th>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.MaSP)</td>
+                <td>@Html.DisplayFor(modelItem => item.TenSP)</td>
+                <td>@Html.DisplayFor(modelItem => item.DuongDan)</td>
+                <td>@Html.DisplayFor(modelItem => item.Gia)</td>
+                <td>@Html.DisplayFor(modelItem => item.MoTa)</td>
+            </tr>
+        }
+    </table>
+}
+
+<p>
+    @Html.ActionLink("Quay lại", "Index")
+</p>
+
+

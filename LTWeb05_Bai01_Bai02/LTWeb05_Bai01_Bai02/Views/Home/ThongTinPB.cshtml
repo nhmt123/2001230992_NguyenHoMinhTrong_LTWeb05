@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "ThongTinPB";
+}
+
+@model LTWeb05_Bai01_Bai02.ViewModels.PhongBanViewModel
+
+<h2>Thông tin phong ban</h2>
+
+<p><b>Mã PB:</b> @Model.phongBan.MaPB</p>
+<p><b>Tên PB:</b> @Model.phongBan.TenPB</p>
+
+<p>Danh sách thành viên</p>
+<table class="table table-striped border">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                Mã Nhân Viên |
+            </th>
+            <th>
+                Tên Nhân Viên |
+            </th>
+            <th>
+                Giới Tính |
+            </th>
+            <th>
+                Tỉnh/Thành Phố
+            </th>
+        </tr>
+    </thead>
+    @foreach (var item in Model.nhanVien)
+    {
+        <tr>
+            <td>
+                @item.MaNV
+            </td>
+            <td>
+                @item.Ten
+            </td>
+            <td>
+                @item.GioiTinh
+            </td>
+            <td>
+                @item.Tinh
+            </td>
+        </tr>
+    }
+</table>
+
+<p>
+    @Html.ActionLink("Danh Sách Phong Ban", "HienThiPhongBan")
+</p>
+
