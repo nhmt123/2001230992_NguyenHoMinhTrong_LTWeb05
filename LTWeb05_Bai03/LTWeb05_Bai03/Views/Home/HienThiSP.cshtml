@@ -1,0 +1,55 @@
+﻿@model IEnumerable<LTWeb05_Bai03.Models.SanPham>
+@{
+    ViewBag.Title = "HienThiSP";
+}
+
+<p>
+    @Html.ActionLink("Tìm Kiếm Sản Phẩm", "TimKiemSP")
+</p>
+
+<h2>Danh Sách Sản Phẩm</h2>
+<table class="table table-striped border">
+    <thead class="thead-dark">
+        <tr>
+            <th> 
+                Mã Sản Phẩm
+            </th>
+            <th style="padding-left: 40px;">
+                Tên Sản Phẩm
+            </th>
+            <th style="padding-left: 40px;">
+                Đường Dẫn
+            </th>
+            <th style="padding-left: 40px;">
+                Giá
+            </th>
+            <th>
+                Mô Tả
+            </th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaSP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DuongDan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gia)
+            </td>
+            <td style="padding-left: 40px;">
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+        </tr>
+    }
+</table>
+
+<p>
+    @Html.ActionLink("Quay lại", "Index")
+</p>

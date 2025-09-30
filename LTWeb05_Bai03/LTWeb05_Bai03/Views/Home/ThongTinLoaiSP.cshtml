@@ -1,0 +1,59 @@
+﻿@model LTWeb05_Bai03.ViewModels.LoaiSPViewModel
+@{
+    ViewBag.Title = "ThongTinLoaiSP";
+}
+
+<h2>Thông Tin Sản Phẩm Theo Loai</h2>
+<p>Danh sách thành viên</p>
+<table class="table table-striped border">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                Mã Sản Phẩm
+            </th>
+            <th style="padding-left: 40px;">
+                Tên Sản Phẩm
+            </th>
+            <th style="padding-left: 40px;">
+                Đường Dẫn
+            </th>
+            <th style="padding-left: 40px;">
+                Giá
+            </th>
+            <th>
+                Mô Tả
+            </th>
+            <th>
+                Mã Loại
+            </th>
+        </tr>
+    </thead>
+    @foreach (var item in Model.sp)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaSP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DuongDan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gia)
+            </td>
+            <td style="padding-left: 40px;">
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td style="padding-left: 40px;">
+                @Html.DisplayFor(modelItem => item.MaLoai)
+            </td>
+        </tr>
+    }
+</table>
+
+<p>
+    @Html.ActionLink("Quay Lại", "HienThiLoaiSP")
+</p>
+

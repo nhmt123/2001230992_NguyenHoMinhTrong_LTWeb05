@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\viewmodels\\phongbanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\viewmodels\\phongbanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\models\\dulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\models\\dulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\views\\home\\thongtinpb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\views\\home\\thongtinpb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\views\\home\\hienthinhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\views\\home\\hienthinhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|c:\\visual studio 2022 project\\projects\\ltweb05\\ltweb05_bai01_bai02\\ltweb05_bai01_bai02\\views\\home\\hienthiphongban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\views\\home\\hienthiphongban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\views\\home\\chinhsuapb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\views\\home\\chinhsuapb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\views\\home\\thempb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\views\\home\\thempb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DuLieu.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Models\\DuLieu.cs",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Models\\DuLieu.cs",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Models\\DuLieu.cs",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Models\\DuLieu.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:59:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:57:24.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T04:08:40.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HienThiPhongBan.cshtml",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiPhongBan.cshtml",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiPhongBan.cshtml",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiPhongBan.cshtml",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiPhongBan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T04:07:35.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HienThiNhanVien.cshtml",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiNhanVien.cshtml",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiNhanVien.cshtml",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiNhanVien.cshtml",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiNhanVien.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T04:05:44.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongTinPB.cshtml",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\ThongTinPB.cshtml",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Views\\Home\\ThongTinPB.cshtml",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\ThongTinPB.cshtml",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Views\\Home\\ThongTinPB.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T04:12:01.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhongBanViewModel.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\ViewModels\\PhongBanViewModel.cs",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\ViewModels\\PhongBanViewModel.cs",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\ViewModels\\PhongBanViewModel.cs",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\ViewModels\\PhongBanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:00:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhongBan.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Models\\PhongBan.cs",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Models\\PhongBan.cs",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Models\\PhongBan.cs",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Models\\PhongBan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:57:58.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Models\\NhanVien.cs",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Models\\NhanVien.cs",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:58:40.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChinhSuaPB.cshtml",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\ChinhSuaPB.cshtml",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Views\\Home\\ChinhSuaPB.cshtml",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\ChinhSuaPB.cshtml",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Views\\Home\\ChinhSuaPB.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T04:13:21.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:07:06.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T04:37:10.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThemPB.cshtml",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\ThemPB.cshtml",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Views\\Home\\ThemPB.cshtml",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\ThemPB.cshtml",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Views\\Home\\ThemPB.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T04:11:21.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

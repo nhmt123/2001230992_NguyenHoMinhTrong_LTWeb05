@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\models\\dulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\models\\dulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|c:\\visual studio 2022 project\\projects\\ltweb05\\ltweb05_bai01_bai02\\ltweb05_bai01_bai02\\views\\home\\hienthinhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\views\\home\\hienthinhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|c:\\visual studio 2022 project\\projects\\ltweb05\\ltweb05_bai01_bai02\\ltweb05_bai01_bai02\\views\\home\\thongtinpb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\views\\home\\thongtinpb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\ltweb05_bai01_bai02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|c:\\visual studio 2022 project\\projects\\ltweb05\\ltweb05_bai01_bai02\\ltweb05_bai01_bai02\\views\\home\\hienthiphongban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2E63D5-F899-460A-BAF5-D79A6F849A0D}|LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02.csproj|solutionrelative:ltweb05_bai01_bai02\\views\\home\\hienthiphongban.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThongTinPB.cshtml",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\ThongTinPB.cshtml",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Views\\Home\\ThongTinPB.cshtml",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\ThongTinPB.cshtml",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Views\\Home\\ThongTinPB.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T13:51:48.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HienThiPhongBan.cshtml",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiPhongBan.cshtml",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiPhongBan.cshtml",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiPhongBan.cshtml",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiPhongBan.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T13:44:07.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HienThiNhanVien.cshtml",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiNhanVien.cshtml",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiNhanVien.cshtml",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiNhanVien.cshtml",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Views\\Home\\HienThiNhanVien.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T13:33:29.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuLieu.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Models\\DuLieu.cs",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Models\\DuLieu.cs",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Models\\DuLieu.cs",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Models\\DuLieu.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwEgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:59:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LTWeb05_Bai01_Bai02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Visual Studio 2022 Project\\Projects\\LTWeb05\\LTWeb05_Bai01_Bai02\\LTWeb05_Bai01_Bai02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LTWeb05_Bai01_Bai02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:57:24.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

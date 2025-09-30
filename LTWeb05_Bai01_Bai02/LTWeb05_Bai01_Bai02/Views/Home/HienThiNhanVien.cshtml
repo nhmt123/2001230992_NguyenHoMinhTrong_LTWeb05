@@ -1,0 +1,55 @@
+﻿@model IEnumerable<LTWeb05_Bai01_Bai02.Models.NhanVien>
+@{
+    ViewBag.Title = "HienThiNhanVien";
+}
+
+<h2>Danh Sách Nhân Viên</h2>
+<p>
+    @Html.ActionLink("Thêm mới nhân viên", "Create")
+</p>
+<table class="table table-striped border">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                Mã Nhân Viên
+            </th>
+            <th>
+                Tên Nhân Viên
+            </th>
+            <th>
+                Giới Tính
+            </th>
+            <th>
+                Tỉnh/Thành Phố
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaNV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ten)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GioiTinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tinh)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /*id = item.PrmaryKey*/}) |
+                @Html.ActionLink("Details", "Details", new { /*id = item.PrmaryKey*/}) |
+                @Html.ActionLink("Delete", "Delete", new { /*id = item.PrmaryKey*/})
+            </td>
+        </tr>
+    }
+</table>
+
+<p>
+    @Html.ActionLink("Quay lại", "Index")
+</p>
+

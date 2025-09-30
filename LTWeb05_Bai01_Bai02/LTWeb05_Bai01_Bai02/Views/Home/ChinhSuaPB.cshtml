@@ -1,0 +1,20 @@
+﻿@model LTWeb05_Bai01_Bai02.Models.PhongBan
+@{
+    ViewBag.Title = "ChinhSuaPB";
+}
+
+
+<h2>Chỉnh Sửa Phòng Ban</h2>
+<form method="post" action="~/Home/ChinhSuaPB">
+    <input type="hidden" name="MaPB" value="@Model.MaPB" />
+    <label>Nhập tên phòng ban: </label>
+    <input type="text" name="TenPB" value="@Model.TenPB" />
+    <button type="submit">Thay đổi</button>
+</form>
+
+@ViewBag.Message
+
+<p>
+    @Html.ActionLink("Danh Sách Phong Ban", "HienThiPhongBan")
+</p>
+

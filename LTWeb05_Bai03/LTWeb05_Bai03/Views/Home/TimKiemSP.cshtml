@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "TimKiemSP";
+}
+
+@model List<LTWeb05_Bai03.Models.SanPham>
+
+<h2>TÌM KIẾM SẢN PHẨM</h2>
+
+<form method="post" action="/Home/TimKiemSP">
+    <input type="text" name="TimKiem" placeholder="Nhập tên sản phẩm"
+           style="padding: 5px; width: 300px; border: 1px solid #ccc;" />
+    <button type="submit" name="SEARCH" style="padding: 5px 15px; border: 1px solid #000;">
+        SEARCH
+    </button>
+</form>
+
+<br />
+<hr />
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table table-striped border">
+        <thead class="thead-dark">
+            <tr>
+                <th>Hình SP</th>
+                <th>MaSP</th>
+                <th>TenSP</th>
+                <th>DuongDan</th>
+                <th>Gia</th>
+                <th>MoTa</th>
+                <th>MaLoai</th>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="~/Content/Images/@item.DuongDan" alt="@item.TenSP" style="width: 80px; height: 50px;" />
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.MaSP)</td>
+                <td>@Html.DisplayFor(modelItem => item.TenSP)</td>
+                <td>@Html.DisplayFor(modelItem => item.DuongDan)</td>
+                <td>@Html.DisplayFor(modelItem => item.Gia)</td>
+                <td>@Html.DisplayFor(modelItem => item.MoTa)</td>
+                <td style="text-align:center;">@Html.DisplayFor(modelItem => item.MaLoai)</td>
+            </tr>
+        }
+    </table>
+}
+
+<p style="font-weight: bold; margin-top: 15px;">
+    @if (Model != null && Model.Count > 0)
+    {
+        @ViewBag.KetQuaTimKiem
+    }
+    else
+    {
+        @ViewBag.KetQuaTimKiem
+    }
+</p>
+<p>
+    @Html.ActionLink("Quay lại", "HienThiSP")
+</p>

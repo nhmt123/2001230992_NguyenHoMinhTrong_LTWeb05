@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "ThemPB";
+}
+
+<h2>Thêm phòng ban</h2>
+<form method="post" action="~/Home/ThemPB">
+    <label>Nhập mã phòng: </label>
+    <input type="number" name="Id" />
+    <label>Nhập tên phòng: </label>
+    <input type="text" name="Name" />
+    <button type="submit">Thêm</button>
+</form>
+@ViewBag.Message
+
+<p>
+    @Html.ActionLink("Danh Sách Phong Ban", "HienThiPhongBan")
+</p>
+
